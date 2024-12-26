@@ -1,0 +1,19 @@
+{
+  "name": "kickstarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./ethereum/test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "ganache": "^7.9.2",
+    "mocha": "^11.0.1",
+    "mocka": "^0.0.1",
+    "solc": "^0.8.28",
+    "web3": "^4.16.0"
+  }
+}
