@@ -1,3 +1,4 @@
 .states
 artifacts
 node_modules
+.env
